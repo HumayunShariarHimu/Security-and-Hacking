@@ -3,7 +3,6 @@
 > A curated and organized collection of resources related to **Security-and-Hacking**.
 
 
-<div align="left">
 <br>
 
 # Awesome Security & Hacking
@@ -26,7 +25,6 @@
   <a href="#bug-bounty">Bug Bounty</a>
 </p>
 
-</div>
 
 
 ## Table of content
